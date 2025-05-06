@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: python-app
-        image: your-docker-username/python-app:latest
+        image: priyalt24/python-app:latest
         ports:
         - containerPort: 5000
